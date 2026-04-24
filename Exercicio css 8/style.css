@@ -1,0 +1,17 @@
+*{
+    background-color: black;
+}
+.container{
+    border: 5px solid white;
+    width: ;
+    height: ;
+    position: absolute;
+    top: 30px;
+    left: 100px;
+}
+.caixas{
+    color: white;
+    text-align: center;
+    position: absolute;
+    top: 250px;
+}
